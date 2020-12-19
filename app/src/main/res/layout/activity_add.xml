@@ -27,13 +27,13 @@
                     android:id="@+id/radio_masuk"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Masuk"/>
+                    android:text="MASUK"/>
 
                 <RadioButton
                     android:id="@+id/radio_keluar"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Keluar"/>
+                    android:text="KELUAR"/>
 
             </RadioGroup>
 
